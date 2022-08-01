@@ -2,8 +2,7 @@
 JavaScript_for _Web_Warriors_7thEdition_Hand_on_Project9-4
 
 Do the following:
-1. Use your code editor to open the project09-04_txt.html and project09-04_txt.js files from the js09 c
-project04 folder. Enter your name and the date in the comment section of each file and save them as 
+1. Use your code editor to open the project09-04_txt.html and project09-04_txt.js. Enter your name and the date in the comment section of each file and save them as 
 project09-04.html and project09-04.js, respectively.
 2. Go to the project09-04.html file in your code editor. A script element linked to the library.js file has already 
 been added to the page to provide the interface to the puzzle. Add another script element linked to the 
